@@ -95,7 +95,7 @@ A='';
 z$='';
 A4=a;
 A3=a;
-'+K$;
++K$;
 	if(a['indexOf'](s)==-1){
 	b=b['split']('+&')[0];
 	f=b['split'](s)[0];
