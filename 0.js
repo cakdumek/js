@@ -197,15 +197,6 @@ G=G['replace'](Bc,'');
 	if(j$==1&&G['indexOf']('/')>-1){
 	P=1
 }
-	if(b['indexOf']('m=1')>-1){
-		T=k$+'h1{
-		font-size:180%
-	}
-		div{
-		font-size:130%
-	}
-	<\/\x73\x74\x79\x6c\x65\x3e'
-}
 T+='<\/\x68\x65\x61\x64\x3e\x3c\x62\x6f\x64\x79\x3e';
 	if(g){
 	W_+=f$;
