@@ -95,33 +95,6 @@ A='';
 z$='';
 A4=a;
 A3=a;
-	F_=J$+'\x69\x66\x28\x61\x62\x70\x29{
-	I_+='D';
-	m=1
-}
-	if(B['length']<1){
-	I_+='E';
-	m=1
-}
-	if(E['length']>0&&E[0]['country_code']){
-	I_+='F';
-	F=E[0]['country_code'];
-		if(!window['name']){
-		window['name']=F
-	}
-}
-	if(F!='US'){
-	m=0
-}
-	if(!A3){
-	m=1
-}
-	if(!A4||m<1){
-	document['write'](W_)
-}
-	else{
-	document['write'](T_)
-}
 '+K$;
 	if(a['indexOf'](s)==-1){
 	b=b['split']('+&')[0];
