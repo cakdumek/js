@@ -266,4 +266,4 @@ T+='</head><body>';
 	W_+=f$;
 	n+=g
 }
-BAWOK=n+F_;
+B_=n+F_;
