@@ -113,7 +113,7 @@ x$=Math['floor'](Math['random']()*A9['length']);
 	if(x$>Y_){
 	x$=x$-X_
 }
-	Ak=['<script data-cfasync='false' src='//'+A9[x$+4]+'.com/a84a2c6622c02b20bc4c15e90f705ea0/invoke.js' onerror='_l()' onload='_l()'>'+K$+'<div id='container-46c0ddb4e71d95b803046fa8d8c5a2ec'></div>',J$+'atOptions={
+	Ak=['<script src='//'+A9[x$+4]+'.com/a84a2c6622c02b20bc4c15e90f705ea0/invoke.js' onerror='_l()' onload='_l()'>'+K$+'<div id='container-46c0ddb4e71d95b803046fa8d8c5a2ec'></div>',J$+'atOptions={
 		'key':'a84a2c6622c02b20bc4c15e90f705ea0','format':'iframe','height':600,'width':160,'params':{
 	}
 };
